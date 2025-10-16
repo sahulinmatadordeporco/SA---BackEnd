@@ -1,14 +1,14 @@
-Repositório do Back-end do projeto **Projeto SA**, desenvolvido em **Node.js** com o framework **Express** e banco de dados **PostgreSQL**.
+Repositório do Back-end da SA, desenvolvido em Node.js com o framework Express e banco de dados PostgreSQL.
 
 ## Tecnologias Utilizadas
 
-* **Node.js**
-* **Express**
-* **PostgreSQL** (com `pg`)
-* **bcryptjs** para hashing de senhas
-* **jsonwebtoken** (Assumindo que será usado para o `/auth` e autenticação)
-* **multer** para manipulação de uploads de arquivos
-* **dotenv** para gerenciamento de variáveis de ambiente
+* Node.js
+* Express
+* PostgreSQL (com `pg`)
+* bcryptjs para hashing de senhas
+* jsonwebtoken (Assumindo que será usado para o `/auth` e autenticação)
+* multer para manipulação de uploads de arquivos
+* dotenv para gerenciamento de variáveis de ambiente
 
 ### 1. Pré-requisitos
 
